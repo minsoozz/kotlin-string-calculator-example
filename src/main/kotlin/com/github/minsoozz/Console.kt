@@ -10,7 +10,7 @@ class Console {
     }
 
     fun output(result: Number) {
-        println("result = $result")
+        println(result.value)
     }
 }
 
